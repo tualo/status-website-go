@@ -3,3 +3,4 @@ status-website-go
 test.json
 config.json
 *.exe
+setup.sh
